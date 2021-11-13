@@ -1,2 +1,2 @@
 # assignment4
-centralized Github repository
+This is a test project
